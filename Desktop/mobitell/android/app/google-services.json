@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2326504792",
+    "project_id": "mobitel-fb2e1",
+    "storage_bucket": "mobitel-fb2e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2326504792:android:87c8244a93c2dbafba312d",
+        "android_client_info": {
+          "package_name": "com.mab.mobitel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5x5BQjUL4kyfO0-F7W_mNJHQoz2G89t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
