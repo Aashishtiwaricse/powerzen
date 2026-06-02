@@ -1,5 +1,5 @@
 class ApiConstants {
-  static const String baseUrl = "https://project-crm-kohl.vercel.app";
+  static const String baseUrl = "https://www.powerzen.live/login";
   static const String login = "/api/mobile/login";
   static const clockIn = "/api/mobile/clock-in";
   static const clockOut = "/api/mobile/clock-out";
