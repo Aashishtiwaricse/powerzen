@@ -1,5 +1,5 @@
 class ApiConstants {
-  static const String baseUrl = "https://www.powerzen.live/login";
+  static const String baseUrl = "https://www.powerzen.live";
   static const String login = "/api/mobile/login";
   static const clockIn = "/api/mobile/clock-in";
   static const clockOut = "/api/mobile/clock-out";
